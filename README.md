@@ -1,9 +1,17 @@
-This is for testing the parsing logic 
+# This is for testing the parsing logic 
 
 
 parseMenu/datascrapper.ts 파일을 실행하시면 됩니다 
 
 command: ts-node datascrapper.ts 
+
+### Prerequisites
+
+Make sure you have `ts-node` installed to execute TypeScript files directly. If not already installed, you can install it using npm:
+
+```bash
+npm install -g ts-node
+
 
 Note! 
 parseMenu/datascrapper.ts 파일을 실행하기 전에 조금 수정해줘야 합니다 
